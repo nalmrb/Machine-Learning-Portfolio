@@ -2,7 +2,10 @@
 """
 Created on Wed Jun 21 19:42:53 2023
 
-@author: nalmrb
+Convolutional Spiking Neural Networks for Intent Detection Based on Anticipatory
+Brain Potentials Using Electroencephalogram
+
+Authors: Nathan Lutes, V. S. S. Nadendla, K. Krishnamurthy
 """
 
 #this script contains the different KFoldCrossVal functions

@@ -2,7 +2,10 @@
 """
 Created on Wed Jun 21 19:39:01 2023
 
-@author: nalmrb
+Convolutional Spiking Neural Networks for Intent Detection Based on Anticipatory
+Brain Potentials Using Electroencephalogram
+
+Authors: Nathan Lutes, V. S. S. Nadendla, K. Krishnamurthy
 """
 
 # train different networks on paper 1 using k fold cross-validation strategy

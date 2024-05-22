@@ -2,7 +2,10 @@
 """
 Created on Fri Jun  9 15:16:09 2023
 
-@author: nalmrb
+Convolutional Spiking Neural Networks for Intent Detection Based on Anticipatory
+Brain Potentials Using Electroencephalogram
+
+Authors: Nathan Lutes, V. S. S. Nadendla, K. Krishnamurthy
 """
 import glob
 import numpy as np
